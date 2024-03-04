@@ -1,0 +1,3 @@
+No. 35 Predicts of ./icdar_data/word_7.png
+pred txt: 20029
+pred prob: 0.9682520031929016

@@ -1,0 +1,6 @@
+icdar_data/word_6.png	198
+icdar_data/word_7.png	20029
+icdar_data/word_8.png	Free
+icdar_data/word_9.png	from
+icdar_data/word_10.png    PAIN
+icdar_data/word_11.png	BLOCK

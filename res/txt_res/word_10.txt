@@ -1,0 +1,3 @@
+No. 24 Predicts of ./icdar_data/word_10.png
+pred txt: PAIN
+pred prob: 0.9839118719100952

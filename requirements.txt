@@ -1,0 +1,6 @@
+numpy>=1.18.5
+opencv-python>=4.1.1
+Pillow>=7.1.2
+onnx==1.8.0
+onnxruntime
+rapidfuzz

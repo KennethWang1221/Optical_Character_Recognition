@@ -1,0 +1,3 @@
+No. 4 Predicts of ./icdar_data/12.png
+pred txt: 2022-05-09 星期— 01:38:58
+pred prob: 0.8843010663986206
